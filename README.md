@@ -93,7 +93,7 @@ Sales-Performance-Dashboard/
 ---
 
 ## Screenshots
-![Dashboard Screenshot](images/Dashboard.jpeg)
+![Dashboard Screenshot](Bash/Dashboard.jpeg)
 
 ---
 
