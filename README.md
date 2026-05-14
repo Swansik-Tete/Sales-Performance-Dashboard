@@ -93,13 +93,7 @@ Sales-Performance-Dashboard/
 ---
 
 ## Screenshots
-Add your dashboard screenshots inside the `images` folder and display them here.
-
-Example:
-
-```md
-![Dashboard Screenshot](images/dashboard_screenshot.png)
-```
+![Dashboard Screenshot](images/dashboard.jpeg)
 
 ---
 
